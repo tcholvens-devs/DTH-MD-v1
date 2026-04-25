@@ -1,10 +1,10 @@
 {
-    "bot-name": "INCONNU-XD",
+    "bot-name": "DTH-MD",
     "description": "Whiskey Sockets Baileys Whatsapp bot By joeljamestech",
     "logo": "https://files.catbox.moe/e1k73u.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://inconnu-boy-tech-bot.onrender.com/pair",
-    "owner-verification": "inconnuboytech@gmail.com",
+    "owner-verification": "nightshadowp3@gmail.com",
   
     "env": {
       "SESSION_ID": {
@@ -28,13 +28,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "INCONNU BOY"
+      "value": "NIGHT SHADOW"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "554488138425"
+      "value": "50935380895"
 
     }, 
 
